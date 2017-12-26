@@ -1,3 +1,8 @@
+# !/usr/bin/env python3
+# coding=utf-8
+# author=dave.fang@outlook.com
+# create=20171225
+
 import numpy as np
 
 def pad_right_down_corner(img, stride, pad_value):
